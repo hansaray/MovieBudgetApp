@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">MovieBudgetApp</string>
+    <string name="api_key">555dd34b51d2f5b7f9fdb39e04986933</string>
+    <string name="ImageExp">Movie Title</string>
+    <string name="title">Movies\'</string>
+    <string name="takeToList">-> Movie List</string>
+    <string name="takeToFav">-> Favorites</string>
+    <string name="exp">Are you always curious what is the budget of the movie? If yes, then you are in the right place! \n All you need about movies… </string>
+    <string name="addToFav">Add to Favorites</string>
+    <string name="removeFromFav">Remove from Favorites</string>
+    <string name="noBudget">No budget information</string>
+    <string name="searchHere">Search here</string>
+    <string name="noResult">No movie found :(</string>
+</resources>
